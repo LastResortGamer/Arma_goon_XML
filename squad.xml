@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="GOON">
+    <name>Gooner Squad</name>
+    <email>N/A</email>
+    <web>N/A</web>
+    <picture>4de868bbb4b883e9cb8b622ff1c1948a.paa</picture>
+    <title>N/A</title>
+    <member id="1" nick="Not Jarvis">
+        <name>N/A</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+        <remark>N/A</remark>
+    </member>
+</squad>
