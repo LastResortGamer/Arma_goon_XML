@@ -4,7 +4,7 @@
     <name>Gooner Squad</name>
     <email>N/A</email>
     <web>N/A</web>
-    <picture>4de868bbb4b883e9cb8b622ff1c1948a.paa</picture>
+    <picture>logo.paa</picture>
     <title>N/A</title>
     <member id="76561198263528678" nick="Not Jarvis">
         <name>Jarvis</name>
@@ -24,4 +24,10 @@
         <icq>N/A</icq>
         <remark>N/A</remark>
     </member>
+    <member id="76561198281347247" nick="SeanO">
+        <name>Sean</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+        <remark>N/A</remark>
+        </member>
 </squad>
